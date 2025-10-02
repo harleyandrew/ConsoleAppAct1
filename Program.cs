@@ -11,7 +11,6 @@ class Program
         Console.WriteLine("Welcome to Simple Contact Book!");
         Console.WriteLine("Welcome to Simple Contact Book!");
 
-
         while (running)
         {
             Console.WriteLine("\n--- Main Menu ---");
