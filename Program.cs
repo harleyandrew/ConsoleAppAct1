@@ -11,7 +11,9 @@ class Program
         Console.WriteLine("Welcome to Simple Contact Book!");
         Console.WriteLine("Welcome to Simple Contact Book!");
         Console.WriteLine("Welcome to Simple Contact Book 3!");
+
         
+        Console.WriteLine("fetch demo");
 
 
         while (running)
